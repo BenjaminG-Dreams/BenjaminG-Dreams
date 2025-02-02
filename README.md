@@ -8,9 +8,11 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/BenjaminG-Dreams/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Setup a Subscription and a Resource in Azure for Beginner Labs](https://github.com/BenjaminG-Dreams/setup-azure-sub-and-resource)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/BenjaminG-Dreams/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/BenjaminG-Dreams/azure-network-protocols)
-  - [Create Virtual Machines Within Azure](https://github.com/BenjaminG-Dreams/creating-azure-vm)
+ - [Create Virtual Machines Within Azure](https://github.com/BenjaminG-Dreams/creating-azure-vm)
+ - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/BenjaminG-Dreams/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs Part 1](https://github.com/BenjaminG-Dreams/configure-ad)
+  - [On-premises the Active Directory within Azure VMs Part 2](https://github.com/BenjaminG-Dreams/configure-ad2)
+ - [On-premises the Active Directory within Azure VMs Part 3](https://github.com/BenjaminG-Dreams/configure-ad3)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
