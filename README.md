@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/BenjaminG-Dreams/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/BenjaminG-Dreams/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Setup a Subscription and a Resource in Azure for Beginner Labs](https://github.com/BenjaminG-Dreams/setup-azure-sub-and-resource)
+ - [Setup a Subscription and a Resource in Azure for Beginner Labs](https://github.com/BenjaminG-Dreams/setup-azure-sub-and-resource)
  - [Create Virtual Machines Within Azure](https://github.com/BenjaminG-Dreams/creating-azure-vm)
  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/BenjaminG-Dreams/azure-network-protocols)
   - [Configuring On-premises Active Directory within Azure VMs Part 1](https://github.com/BenjaminG-Dreams/configure-ad)
